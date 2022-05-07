@@ -1,0 +1,2 @@
+# Quantum-Racing
+The aim of the assignment is to write a console application in C language, which will simulate and visualize the course of the racing car game Quantum Racing. There are 2 cars on the racetrack. The movement of cars on the track is controlled by pseudo-randomness. In addition, on the track can be deployed so-called. tunnels that teleport the car to another location on the track. The purpose of the assignment is to practice working with fields.
